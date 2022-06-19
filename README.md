@@ -1,8 +1,10 @@
 # communication-project
 It is a team project.
+
 🚩First clone a repo then work.
 
 👉How to clone a repo?
+
 1.On GitHub.com, navigate to the main page of the repository.
 
 2.Above the list of files, click  Code.
