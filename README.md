@@ -39,5 +39,8 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 1. $ git pull upstream main
 2. $ git add ~A
 3. $ git commit -m "comment accourding to you"
+4. $ git push origin main
 
 after this go on github repository and click on contribution option to creat pull request.
+
+to get all data/changes in repo $ git pull upstream.
