@@ -34,6 +34,8 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 > Unpacking objects: 100% (10/10), done.
 
 👉How to creat pull request?
+   $ git remote -v add upstream link
+   (never pull node_module folder. Just create .gitignore.txt file by runing touch gitignore in git base)
 1. $ git pull upstream main
 2. $ git add ~A
 3. $ git commit -m "comment accourding to you"
